@@ -324,3 +324,8 @@ footer p{
     border-radius: 50%;
     background-color: #1db954;
 }
+
+.card:hover{
+    box-shadow: 2px 4px 5px 4px white;
+    cursor: pointer;
+}
